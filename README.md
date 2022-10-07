@@ -5,8 +5,8 @@
 
  <p>Medidor de progresso:</p>
 
- <p>1/10 ~> Criando HTML, CSS e JS.</p>
- <p>2/10 ~> Criando marcação das abas no html</p>
+ <p>1/10 ~> Estilizar no figma.</p>
+ <p>2/10 ~> Criando HTML</p>
  <p>3/10 ~> Estilizando a marcação das paginas com CSS</p>
  <p>4/10 ~> Adicionando animações com JS</p>
  <p>5/10 ~> Modelo final para visualização</p>
